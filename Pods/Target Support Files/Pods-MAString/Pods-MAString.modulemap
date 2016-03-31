@@ -1,0 +1,6 @@
+framework module Pods_MAString {
+  umbrella header "Pods-MAString-umbrella.h"
+
+  export *
+  module * { export * }
+}
