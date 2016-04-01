@@ -24,11 +24,9 @@ s.source = { :git => "https://github.com/kamikazekip/MAString.git", :tag => "#{s
 
 # 7
 s.framework = "Foundation"
-s.dependency 'Alamofire', '~> 2.0'
+s.dependency 'Alamofire', '~> 3.3'
 
 # 8
 s.source_files = "MAString/**/*.{swift}"
 
-# 9
-s.resources = "MAString/**/*.{png,jpeg,jpg,storyboard,xib}"
 end

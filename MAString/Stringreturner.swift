@@ -11,8 +11,14 @@ import Alamofire
 
 public class Stringreturner {
     
+    public init(){ }
+    
     public func returnString() -> String! {
         return "Hallo! Dit is een test!";
+    }
+    
+    public func returnAnotherString() -> String! {
+        return "ReturnAnotherString";
     }
     
 }

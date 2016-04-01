@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '260F11F71AF8A930BE77123D'
+               BlueprintIdentifier = '9573CC293B1FC4A4968A2E2E'
                BlueprintName = 'Pods-MAString'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods_MAString.framework'>
