@@ -14,11 +14,11 @@ public class Stringreturner {
     public init(){ }
     
     public func returnString() -> String! {
-        return "Hallo! Dit is een test!";
+        return "Hallo! Dit is een test!2";
     }
     
     public func returnAnotherString() -> String! {
-        return "ReturnAnotherString";
+        return "ReturnAnotherString2";
     }
     
 }
